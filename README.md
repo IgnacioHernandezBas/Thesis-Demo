@@ -1,1 +1,1 @@
-# Pose detection for the improvement of Physical Activities.
+# Pose Detection for the improvement of Physical Activities.
